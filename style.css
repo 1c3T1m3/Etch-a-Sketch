@@ -1,0 +1,12 @@
+#rows{
+    display: flex;
+    flex-direction: row;
+}
+div{    
+    outline: 0px solid yellowgreen;
+    flex: 1 1 auto;
+    text-align: center;  
+}
+#box:hover {
+    background-color: crimson;
+  }
