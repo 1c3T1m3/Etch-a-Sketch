@@ -3,10 +3,10 @@
     flex-direction: row;
 }
 div{    
-    outline: 0px solid yellowgreen;
+    outline: 1px solid darkseagreen;
     flex: 1 1 auto;
     text-align: center;  
 }
 #box:hover {
-    background-color: crimson;
+    background-color: seagreen;
   }
