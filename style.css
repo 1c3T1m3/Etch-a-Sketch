@@ -1,12 +1,17 @@
-#rows{
+.rows{
     display: flex;
     flex-direction: row;
 }
 div{    
-    outline: 1px solid darkseagreen;
+    outline: 1px solid white;
     flex: 1 1 auto;
-    text-align: center;  
+    text-align: center;
+    height: 2em;
 }
-#box:hover {
+#container{
+    padding-right: 15%;
+    padding-left: 15%;
+}
+.column:hover {
     background-color: seagreen;
   }
